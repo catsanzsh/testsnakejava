@@ -12,3 +12,5 @@ What things you need to install the software and how to install them:
 
 ```bash
 Java JDK 8 or later
+
+# [C] Flames Co. LLC 20XX-25
